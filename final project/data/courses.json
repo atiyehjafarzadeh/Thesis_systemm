@@ -1,0 +1,11 @@
+[
+  {
+    "course_id": "C001",
+    "title": "پایان‌نامه مهندسی نرم‌افزار",
+    "professor_id": "prof01",
+    "year": 1404,
+    "semester": "اول",
+    "capacity": 5,
+    "unit": 6
+  }
+]

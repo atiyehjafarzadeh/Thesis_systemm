@@ -1,0 +1,11 @@
+[
+  {
+    "request_id": "7aafa0e4-b020-4d8f-acc0-707fa907cb04",
+    "type": "course_request",
+    "student_id": "981010",
+    "course_id": "C001",
+    "professor_id": "prof01",
+    "request_date": "2025-08-19T09:42:46.502151",
+    "status": "در انتظار تأیید استاد"
+  }
+]
